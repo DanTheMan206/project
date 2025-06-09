@@ -237,6 +237,11 @@ nav a.accent-link{
   display: none;
 }
 
+#hidden{
+  margin-top: 20px;
+  text-align: center;
+}
+
 @media screen and (max-width: 700px) {
   #open-sidebar-button, #close-sidebar-button{
     display: block;
